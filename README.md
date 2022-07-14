@@ -2,4 +2,4 @@
 
 GH Pages is a free place to deploy static web pages.
 
-Live app is here.
+Live app is [here](https://edgenortheastern.github.io/gh-pages/).
