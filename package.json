@@ -1,0 +1,23 @@
+{
+  "name": "percentages",
+  "version": "1.0.0",
+  "description": "percentage calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDGENortheastern/gh-pages.git"
+  },
+  "author": "Katia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EDGENortheastern/gh-pages/issues"
+  },
+  "homepage": "https://github.com/EDGENortheastern/gh-pages#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
